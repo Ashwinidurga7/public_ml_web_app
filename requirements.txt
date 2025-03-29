@@ -2,4 +2,4 @@ numpy>=1.23.0
 streamlit
 pandas
 scikit-learn
-
+streamlit-option-menu==0.3.2
