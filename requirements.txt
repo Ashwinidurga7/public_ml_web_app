@@ -1,6 +1,5 @@
-[quote="atsuyamaru0816, post:1, topic:87034"]
-streamlit==1.39.0
-openai==1.42.0
-tornado>=6.4.2
-[/quote]
+numpy>=1.23.0
+streamlit
+pandas
+scikit-learn
 
